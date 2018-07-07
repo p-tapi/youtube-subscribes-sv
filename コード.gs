@@ -1,7 +1,7 @@
 
 function myFunction() {
   
-  var key = 'AIzaSyDp4itNxFAkTHMCpWLNdvRgcYnAb8_NGQM';
+  var key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
   var start = new Date();
   
   //シートを取得
